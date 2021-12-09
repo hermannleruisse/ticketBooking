@@ -1,0 +1,10 @@
+E:\3000_TECHNIQUE\3300_Sources\TicketBooking\TicketBookingCore\bin\Debug\netcoreapp3.1\TicketBookingCore.deps.json
+E:\3000_TECHNIQUE\3300_Sources\TicketBooking\TicketBookingCore\bin\Debug\netcoreapp3.1\TicketBookingCore.dll
+E:\3000_TECHNIQUE\3300_Sources\TicketBooking\TicketBookingCore\bin\Debug\netcoreapp3.1\TicketBookingCore.pdb
+E:\3000_TECHNIQUE\3300_Sources\TicketBooking\TicketBookingCore\obj\Debug\netcoreapp3.1\TicketBookingCore.csproj.AssemblyReference.cache
+E:\3000_TECHNIQUE\3300_Sources\TicketBooking\TicketBookingCore\obj\Debug\netcoreapp3.1\TicketBookingCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\3000_TECHNIQUE\3300_Sources\TicketBooking\TicketBookingCore\obj\Debug\netcoreapp3.1\TicketBookingCore.AssemblyInfoInputs.cache
+E:\3000_TECHNIQUE\3300_Sources\TicketBooking\TicketBookingCore\obj\Debug\netcoreapp3.1\TicketBookingCore.AssemblyInfo.cs
+E:\3000_TECHNIQUE\3300_Sources\TicketBooking\TicketBookingCore\obj\Debug\netcoreapp3.1\TicketBookingCore.csproj.CoreCompileInputs.cache
+E:\3000_TECHNIQUE\3300_Sources\TicketBooking\TicketBookingCore\obj\Debug\netcoreapp3.1\TicketBookingCore.dll
+E:\3000_TECHNIQUE\3300_Sources\TicketBooking\TicketBookingCore\obj\Debug\netcoreapp3.1\TicketBookingCore.pdb
